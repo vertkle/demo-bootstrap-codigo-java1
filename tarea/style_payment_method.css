@@ -1,0 +1,20 @@
+.txt_welcome{
+    color: green;
+}
+.box_green{
+    background-color: green;
+    color: yellow;
+    margin: 15px;
+    padding: 50px
+    
+}
+.box_yellow{
+    background-color: yellow;
+    color: green;
+    margin: 15px;
+    padding: 50px
+}
+.text-payment{
+    font-size: 20px;
+    width: 100%;
+}

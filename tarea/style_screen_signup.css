@@ -1,0 +1,27 @@
+.txt_welcome{
+    color: green;
+    font-weight: bold;
+}
+.txt_little{
+    color: yellow;
+    font-weight: bold;
+}
+.box_style{
+    background-color: green;
+    border-radius: 1rem;
+}
+input{
+    border-radius: 20px;
+    border-color: white;
+}
+.button_redondo{
+    background-color: yellow;
+    color: green;
+    border-color: white;
+    width: 60%;
+}
+.button_redondo a {
+    text-decoration: none;
+    color: green;
+  }
+

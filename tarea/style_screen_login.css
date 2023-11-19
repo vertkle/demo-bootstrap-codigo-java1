@@ -1,0 +1,33 @@
+.txt_welcome{
+    color: green;
+    font-weight: bold;
+}
+.txt_little{
+    color: yellow;
+    font-weight: bold;
+}
+.box_style{
+    background-color: green;
+    border-radius: 1rem;
+}
+input{
+    border-radius: 20px;
+    border-color: white;
+}
+.button_redondo{
+    background-color: yellow;
+    color: green;
+    border-radius: 20px;
+    border-color: white;
+    width: 40%;
+}
+.button_redondo a {
+    text-decoration: none;
+    color: green;
+  }
+
+  .txt_crear_cuenta{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: yellow;
+    font-size: 20px;
+  }
